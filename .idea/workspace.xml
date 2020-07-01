@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd2d54b4-972f-4268-bba6-29a1175578d6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zyv9fS4Uw2m4E2dLIxVYv5bmxj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="tomb" />
+      <recent name="jatek" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="tomb" />
+      <recent name="" />
+      <recent name="szoveg" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestTomb">
+    <configuration name="TestAnagramma" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="feladatok" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="szoveg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="szoveg" />
+      <option name="MAIN_CLASS_NAME" value="szoveg.TestAnagramma" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLineBreak" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="feladatok" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="szoveg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="szoveg" />
+      <option name="MAIN_CLASS_NAME" value="szoveg.TestLineBreak" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSzamla" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="feladatok" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestSzamla" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTicTacToe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="feladatok" />
+      <option name="PACKAGE_NAME" value="jatek" />
+      <option name="MAIN_CLASS_NAME" value="jatek.TestTicTacToe" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTomb" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="feladatok" />
+      <option name="PACKAGE_NAME" value="tomb" />
+      <option name="MAIN_CLASS_NAME" value="tomb.TestTomb" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestTomb" />
+        <item itemvalue="JUnit.TestSzamla" />
+        <item itemvalue="JUnit.TestLineBreak" />
+        <item itemvalue="JUnit.TestAnagramma" />
+        <item itemvalue="JUnit.TestTicTacToe" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd2d54b4-972f-4268-bba6-29a1175578d6" name="Default Changelist" comment="" />
+      <created>1585823999227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585823999227</updated>
+      <workItem from="1585824004237" duration="7614000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="596" y="290" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585830023480">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="596" y="290" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1600.860@0.0.1600.860" timestamp="1585830023480" />
+    <state x="506" y="172" key="FileChooserDialogImpl" timestamp="1585824074178">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="506" y="172" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1585824074178" />
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1585834518470">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1680.1010@0.0.1600.860" timestamp="1585834518470" />
+    <state width="754" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1585829875877" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1585834518470">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1680.1010@0.0.1600.860" timestamp="1585834518470" />
+    <state width="754" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1585829875877" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1585834518470">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1680.1010@0.0.1600.860" timestamp="1585834518470" />
+    <state width="754" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1585829875877" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1585834518470">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1680.1010@0.0.1600.860" timestamp="1585834518470" />
+    <state width="754" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1585829875877" />
+    <state x="280" y="5" key="SettingsEditor" timestamp="1585824083692">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="280" y="5" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1585824083692" />
+  </component>
+</project>
